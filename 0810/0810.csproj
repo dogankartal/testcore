@@ -1,0 +1,85 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Content\css\animate.min.css" />
+    <None Include="wwwroot\Content\css\bootstrap.css" />
+    <None Include="wwwroot\Content\css\bootstrap.min.css" />
+    <None Include="wwwroot\Content\css\font-awesome.min.css" />
+    <None Include="wwwroot\Content\css\style.css" />
+    <None Include="wwwroot\Content\fonts\font-awesome\fontawesome-webfont.eot" />
+    <None Include="wwwroot\Content\fonts\font-awesome\fontawesome-webfont.svg" />
+    <None Include="wwwroot\Content\fonts\font-awesome\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\Content\fonts\font-awesome\fontawesome-webfont.woff" />
+    <None Include="wwwroot\Content\fonts\font-awesome\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\Content\fonts\font-awesome\FontAwesome.otf" />
+    <None Include="wwwroot\Content\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="wwwroot\Content\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\Content\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="wwwroot\Content\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="wwwroot\Content\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\Content\images\.DS_Store" />
+    <None Include="wwwroot\Content\images\404_bg.png" />
+    <None Include="wwwroot\Content\images\about-us-img.png" />
+    <None Include="wwwroot\Content\images\about-us-img1.png" />
+    <None Include="wwwroot\Content\images\about-us-img2.png" />
+    <None Include="wwwroot\Content\images\about-us-img3.png" />
+    <None Include="wwwroot\Content\images\about-us-img4.png" />
+    <None Include="wwwroot\Content\images\blog-img1.png" />
+    <None Include="wwwroot\Content\images\blog-img2.png" />
+    <None Include="wwwroot\Content\images\blog-img3.png" />
+    <None Include="wwwroot\Content\images\blog_post_img1.png" />
+    <None Include="wwwroot\Content\images\blog_post_img2.png" />
+    <None Include="wwwroot\Content\images\blog_post_img3.png" />
+    <None Include="wwwroot\Content\images\coming_soon.png" />
+    <None Include="wwwroot\Content\images\contact_bg.png" />
+    <None Include="wwwroot\Content\images\contact_img.png" />
+    <None Include="wwwroot\Content\images\features_img.png" />
+    <None Include="wwwroot\Content\images\how_to_work.png" />
+    <None Include="wwwroot\Content\images\image-1.png" />
+    <None Include="wwwroot\Content\images\linux_img1.png" />
+    <None Include="wwwroot\Content\images\logo.png" />
+    <None Include="wwwroot\Content\images\member_1.png" />
+    <None Include="wwwroot\Content\images\member_2.png" />
+    <None Include="wwwroot\Content\images\member_3.png" />
+    <None Include="wwwroot\Content\images\member_4.png" />
+    <None Include="wwwroot\Content\images\portfolio1.png" />
+    <None Include="wwwroot\Content\images\portfolio2.png" />
+    <None Include="wwwroot\Content\images\portfolio3.png" />
+    <None Include="wwwroot\Content\images\price_table_bg.png" />
+    <None Include="wwwroot\Content\images\recent_img1.png" />
+    <None Include="wwwroot\Content\images\recent_img2.png" />
+    <None Include="wwwroot\Content\images\recent_img3.png" />
+    <None Include="wwwroot\Content\images\recent_img4.png" />
+    <None Include="wwwroot\Content\images\services_bg.png" />
+    <None Include="wwwroot\Content\images\services_img1.png" />
+    <None Include="wwwroot\Content\images\services_img2.png" />
+    <None Include="wwwroot\Content\images\testi_bg.png" />
+    <None Include="wwwroot\Content\images\testi_img1.png" />
+    <None Include="wwwroot\Content\images\top_banner.png" />
+    <None Include="wwwroot\Content\js\agency.js" />
+    <None Include="wwwroot\Content\js\bootstrap.js" />
+    <None Include="wwwroot\Content\js\bootstrap.min.js" />
+    <None Include="wwwroot\Content\js\custom.js" />
+    <None Include="wwwroot\Content\js\interface.js" />
+    <None Include="wwwroot\Content\js\jquery.countdown.min.js" />
+    <None Include="wwwroot\Content\js\jquery.easing.min.js" />
+    <None Include="wwwroot\Content\js\jquery.min.js" />
+    <None Include="wwwroot\Content\js\jquery.plugin.min.js" />
+    <None Include="wwwroot\Content\js\jquery_002.js" />
+    <None Include="wwwroot\Content\js\jquery_003.js" />
+  </ItemGroup>
+
+</Project>
